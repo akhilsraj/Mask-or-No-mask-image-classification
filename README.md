@@ -1,0 +1,3 @@
+# Mask-or-No-mask-image-classification
+Basic CNN project , this is an intro project for beginners for classification with ANN models as well as CNN models .
+A note in CNN model is where the validation loss increases after epoch 7 which cleary means it is overfit , I havent changed as I wanted to keep it as I did it 2 months ago.and we can later set up a webcam and try for realtime detection....
